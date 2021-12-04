@@ -8,20 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="saah023" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+“In My Eyes” features 40 photos of punk and hardcore legends such as: Fugazi, Minor Threat, Void, Black Flag, Circle Jerks, Dead Kennedys, Jawbox, Government Issue, The Faith, Iron Cross and more. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Jim Saah’s photography has appeared in films, TV, print, archival collections & graced the covers Fugazi’s Repeater as well as records by The Necros, The Meatmen, and Jawbox.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Saah served as Director of Photography on the acclaimed documentaries Salad Days: A Decade of Punk in Washington, D.C. and CREEM: America’s Only Rock & Roll Magazine, and worked as a shooter on many other music documentaries, including Wilco: Ashes of American Flags and Jeff Tweedy: Sunken Treasure.
